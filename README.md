@@ -7,7 +7,7 @@ These are the basic features that I added on my peogram. Once users open They'll
 
 Steps for installing some features to run this code
 
-# commands that you need to write in your VS code terminal
+# Commands that you need will to write in your VS code terminal
 
 1) pip install pyttsx3
 2) pip install speechRecognition
