@@ -7,7 +7,7 @@ These are the basic features that I added on my program. Once users open They'll
 
 Steps for installing some features to run this code
 
-# Commands that you need will to write in your VS code terminal
+# Commands that you will need to write in your VS code terminal
 
 1) pip install pyttsx3
 2) pip install speechRecognition
